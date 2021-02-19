@@ -1,0 +1,87 @@
+.grad1{
+height:auto;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(254,111,137,1) 0%, rgba(254,224,64,1) 100%);
+}
+.pagr{
+  color: white;
+ font-size:2vw;
+ text-align: center;
+padding-top: 30px;
+width: 500px;
+}
+.apvadas{
+border-style:solid;
+border-color:grey;
+ border-width: thin;
+}
+.nav-item .nav-link{
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  color: white;
+}
+.top-buffer { margin-top:20px; }
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+img.one {
+padding-top:5px;
+vertical-align: top;
+width:260px;
+height:135px;
+}
+.tekstas1{
+font-weight: bold;
+margin:0 auto;
+padding-top: 20px;
+}
+.tekstas3{
+ font-size:14px;
+}
+.tekstas2{
+ font-size:12px;
+font-weight: bold;
+padding-top:10px;
+padding-bottom:5px;
+color: grey;
+}
+.data{
+ font-size:10px;
+color: grey;
+padding-top:5px;
+padding-bottom:5px;
+}
+a {
+  color: purple;
+  text-decoration: none;
+}
+.mazas{
+ font-size:12px;
+  color: purple;
+text-decoration: none;
+font-weight: 550;
+}
+.laukelis{
+  padding:3px;
+  margin:2px;
+  float:left;
+  border-radius: 25px;
+  background:#f6f6f6;
+}
+.grad6{
+background:#f6f6f6;
+padding-bottom:30px;
+}
+img.pikt{
+width:20px;
+height:20px;
+float:left;
+margin:2px;
+}
+.credits{
+font-size:10px;
+color: grey;
+ text-align:left;
+}
